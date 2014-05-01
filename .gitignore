@@ -1,0 +1,9 @@
+.pc/
+*~
+bgrep
+debian/*.log
+debian/*.substvars
+debian/*/*/*
+debian/files
+packaging/*/*
+
